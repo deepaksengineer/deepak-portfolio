@@ -1,0 +1,31 @@
+[
+  {
+    "id": "swastiks",
+    "role": "Electrical Design Engineer",
+    "company": "Swastiks Engineers",
+    "location": "Erode, Tamil Nadu, India",
+    "period": "Sep 2025 — Present",
+    "current": true,
+    "points": [
+      "Design LV panels including AHU, VRF, MCC, PCC and motor starter panels for industrial and commercial projects using AutoCAD Electrical.",
+      "Prepare SLDs and full-scale engineering layouts — general arrangement, power distribution, instrumentation, power wiring, control wiring and terminal block layouts.",
+      "Develop basic PLC programs in CICON PLC and design HMI screens using Canvas and Xpaneldesigner.",
+      "Prepare BOMs, BOQs and technical submittals; coordinate with consultants and EPC contractors through project approval cycles.",
+      "Mentor the design team — reviewing drawings, guiding junior engineers and coordinating design activities."
+    ]
+  },
+  {
+    "id": "essae",
+    "role": "Quality Inspector",
+    "company": "Essae Gears and Transmissions Pvt. Ltd.",
+    "location": "Hosur, Tamil Nadu, India",
+    "period": "Dec 2022 — Aug 2023",
+    "current": false,
+    "points": [
+      "Conducted final inspection to ensure outgoing products met tolerance and prepared dispatch inspection reports.",
+      "Identified visual defects during pre-dispatch inspection to prevent non-conforming product from shipping.",
+      "Maintained inspection records and quality checklists for traceability.",
+      "Performed in-process quality studies before and after heat treatment."
+    ]
+  }
+]

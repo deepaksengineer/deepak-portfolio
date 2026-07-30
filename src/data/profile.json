@@ -1,0 +1,19 @@
+{
+  "name": "Deepak S",
+  "title": "Electrical Design & Industrial Automation Engineer",
+  "location": "Erode, Tamil Nadu, India",
+  "email": "deepaks.engineer@gmail.com",
+  "phone": "+91 8870456077",
+  "linkedin": "https://www.linkedin.com/in/deepakseng/",
+  "tagline": "I design the panels that keep power, motors and machines under control.",
+  "summary": "Electrical Design Engineer experienced in LV electrical distribution and control panel design for industrial and commercial projects. I prepare Single Line Diagrams, General Arrangement Drawings, power distribution, instrumentation, power & control wiring, terminal block layouts, BOM and BOQ using AutoCAD. I'm currently building hands-on depth in PLC, SCADA and HMI through structured industrial automation training, with the goal of working on automation systems.",
+  "goal": "To establish a career as an Industrial Automation & Electrical Design Engineer in Germany, leveraging expertise in LV panel design, PLC programming, SCADA, HMI, VFD integration, industrial communication protocols and Industry 4.0 technologies to design, implement, and optimize reliable, safe, and energy-efficient industrial automation systems.",
+  "availability": "Open to Electrical Design & Automation roles",
+  "resumeFile": "/DeepakS_Electrical_Engineer_Resume.pdf",
+  "stats": [
+    { "label": "Year Experience", "value": "1" },
+    { "label": "Projects Delivered", "value": "10+" },
+    { "label": "KW Capacity Designed", "value": "200+" },
+    { "label": "Certifications", "value": "2" }
+  ]
+}

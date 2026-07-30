@@ -1,0 +1,94 @@
+[
+  {
+    "category": "Electrical Design (Professional Experience)",
+    "icon": "sld",
+    "items": [
+      "Single Line Diagrams (SLD)",
+      "Electrical Schematics",
+      "General Arrangement (GA) Drawings",
+      "Load Calculations",
+      "Cable Sizing & Selection",
+      "Control Circuit Design",
+      "Power Distribution Design",
+      "Electrical Documentation"
+    ]
+  },
+  {
+    "category": "LV Panel Engineering (Professional Experience)",
+    "icon": "panel",
+    "items": [
+      "LV Power Distribution Panels",
+      "Motor Control Centers (MCC)",
+      "Power Control Centers (PCC)",
+      "Automatic Power Factor Correction (APFC)",
+      "Control Panels",
+      "AHU / VRF Control Panels",
+      "Distribution Boards (DB)",
+      "Panel Testing & Inspection"
+    ]
+  },
+  {
+    "category": "PLC & Automation (Working Knowledge)",
+    "icon": "plc",
+    "items": [
+      "ABB PLC Programming",
+      "Siemens SIMATIC Manager (Step 7)",
+      "PLC Programming (Ladder Logic)",
+      "PLC Simulation",
+      "Basic Industrial Troubleshooting",
+      "Digital & Analog I/O Configuration"
+    ]
+  },
+  {
+    "category": "SCADA & HMI (Training)",
+    "icon": "hmi",
+    "items": [
+      "Wonderware InTouch SCADA",
+      "SCADA Screen Development",
+      "Alarm Configuration",
+      "Tag Management",
+      "Basic HMI Development"
+    ]
+  },
+  {
+    "category": "Industrial Communication (Fundamental Knowledge)",
+    "icon": "network",
+    "items": [
+      "Modbus RTU",
+      "Modbus TCP",
+      "PROFINET",
+      "EtherNet/IP"
+    ]
+  },
+  {
+    "category": "Engineering Standards (Fundamental Knowledge)",
+    "icon": "standard",
+    "items": [
+      "IEC 61439",
+      "IEC 60947",
+      "IEC 61131-3",
+      "IEC 60204-1"
+    ]
+  },
+  {
+    "category": "Engineering Software (Professional Experience)",
+    "icon": "cad",
+    "items": [
+      "AutoCAD Electrical",
+      "AutoCAD",
+      "Microsoft Excel",
+      "Microsoft Word"
+    ]
+  },
+  {
+    "category": "Project Engineering (Professional Experience)",
+    "icon": "boq",
+    "items": [
+      "BOM Preparation",
+      "BOQ Preparation",
+      "Technical Submittals",
+      "Technical Documentation",
+      "EPC Coordination Support"
+    ]
+  }
+]

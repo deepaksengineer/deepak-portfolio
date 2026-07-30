@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ahu-vfd-dol-bypass",
+    "title": "AHU Control Panel — VFD Starter with DOL Bypass",
+    "year": "2025",
+    "category": "HVAC System",
+    "summary": "Engineered 5 Air Handling Unit control panels combining VFD starters with DOL bypass, giving facilities operators reliable speed control plus a manual fallback path if a drive ever needs servicing.",
+    "highlights": [
+      "Configured motor control for 1×1.5 kW, 2×2.2 kW and 2×3.7 kW induction motors across VFD and bypass modes.",
+      "Produced GA drawings with optimized component placement for assembly and maintenance access.",
+      "Designed power wiring for MCCBs, contactors, VFDs, overload protection and DOL bypass circuits.",
+      "Built complete control wiring — VFD control logic, electrical interlocks, protection circuits and status indication."
+    ],
+    "tech": ["AutoCAD", "DOL Starter", "GA Drawing", "Power Wiring Layout", "Control Wiring Layout", "Terminal Block Layout"]
+  },
+  {
+    "id": "mdp-residential",
+    "title": "Main Distribution Panel — Residential Power Distribution",
+    "year": "2025",
+    "category": "Power Distribution",
+    "summary": "Designed a residential Main Distribution Panel with a 4P 160A MCCB incomer, live energy metering, and a manual Solar/Utility changeover so the home stays powered when the grid drops.",
+    "highlights": [
+      "Prepared SLD, GA drawings and detailed power wiring layouts to industry standard.",
+      "Coordinated a 4P 160A MCCB incomer with protected outgoing feeders.",
+      "Integrated 3 CTs and a multifunction energy meter for real-time voltage, current, power and frequency monitoring.",
+      "Engineered manual MCB changeover between Solar and Utility (EB) supply.",
+      "Segregated dedicated circuits for VRF air-conditioning, lighting and power sockets for resilient load management."
+    ],
+    "tech": ["AutoCAD", "Single Line Diagram", "General Arrangement Drawing", "Power Wiring Layout", "Instrumentation Layout"]
+  },
+  {
+    "id": "ahu-dol-strip-heater",
+    "title": "AHU Control Panel with DOL Starters with Strip Heater & VRF Integration",
+    "year": "2025",
+    "category": "HVAC Automation",
+    "summary": "Built two DOL starter panels for HVAC/refrigeration duty with integrated strip-heater and RTD-based humidity control, plus a double-board layout ready for a future VRF expansion valve module.",
+    "highlights": [
+      "Delivered full documentation — GA, power wiring, control wiring and terminal block layouts.",
+      "Integrated a Multispan MHT-1202 controller with PT-100 RTD and humidity sensors for precise environmental control.",
+      "Designed a double-board panel with provision for a future LEV board for VRF capacity control.",
+      "Added a dedicated breaker for the DX outdoor unit for clean isolation during maintenance.",
+      "Selected contactors, thermal overload relays and Single Phase Preventers for motor protection."
+    ],
+    "tech": ["AutoCAD", "DOL Starter", "GA Drawing", "Power Wiring Layout", "Control Wiring Layout", "Terminal Block Layout"]
+  },
+  {
+    "id": "apfc-90kvar",
+    "title": "12-Stage 90 kVAR APFC Panel",
+    "year": "2026",
+    "category": "Power Factor Correction",
+    "summary": "Designed a 12-stage automatic power factor correction panel that switches capacitor banks in real time, cutting reactive power demand and utility penalty exposure for the plant.",
+    "highlights": [
+      "Configured a 12-stage APFC relay for real-time power factor monitoring and capacitor switching.",
+      "Specified capacitor-duty contactors, heavy-duty capacitor banks and 3-pole MCBs for reliable switching.",
+      "Produced GA, power wiring, control wiring and terminal block documentation for manufacturing.",
+      "Designed protection and feeder arrangements to improve network efficiency and minimize penalty risk."
+    ],
+    "tech": ["APFC Relay", "Capacitor Banks", "AutoCAD", "Reactive Power Compensation", "GA Drawing"]
+  },
+  {
+    "id": "mcc panel",
+    "title": "MCC Panel",
+    "year": "2026",
+    "category": "RO Plant",
+    "summary": "Designed a 13.8 kW MCC panel for an RO Plant with 12 DOL motor starters, integrating Single Phase Preventors for comprehensive motor protection against phase loss and phase sequence faults, along with complete electrical documentation and panel commissioning.",
+    "highlights": [
+      "Successfully designed and assembled an MCC panel with 12 DOL motor starters for RO plant pumps and auxiliary equipment.",
+      "Integrated Single Phase Preventors (SPP) for each motor feeder to protect against single phasing, phase sequence reversal, and phase failure, improving system reliability and reducing motor damage.",
+      "Prepared complete GA drawings, power wiring diagrams, control wiring layouts, terminal block layouts, and BOM for manufacturing and commissioning.",
+      "Designed protection and feeder arrangements to improve network efficiency and minimize penalty risk."
+    ],
+    "tech": ["AUTOCAD", "MCC PANEL", "DOL STARTER", "GA DRAWING", "POWER WIRING LAYOUT", "CONTROL WIRING LAYOUT", "TERMINAL BLOCK LAYOUT", "MOTOR PROTECTION"]
+  },
+  {
+    "id": "ventilation panel",
+    "title": "Ventilation Control Panels with Fire Alarm & BMS Integration (6 Panels)",
+    "year": "2026",
+    "category": "Airport Authority of India (AAI)",
+    "summary": "Designed 6 Ventilation Control Panels for the Airports Authority of India (AAI), comprising 5 Technical Block Panels and 1 ATC Tower Panel. The panels control smoke evacuation, toilet exhaust, lift pressurization, and staircase pressurization fans using DOL and Star-Delta starters, with Single Phase Preventors (SPP) for motor protection. Integrated 24 VDC plug-in relays for Fire Alarm System and BMS ON commands and 230 VAC interposing relays for motor trip feedback to the BMS, ensuring reliable emergency ventilation and seamless building automation.",
+    "highlights": [
+      "Successfully designed and assembled 5 floor-wise Ventilation Control Panels for the Technical Block and 1 dedicated Ventilation Control Panel for the ATC Tower to manage smoke evacuation and pressurization systems.",
+      "Implemented DOL starters for motors up to 5 HP and Star-Delta starters for 7.5 HP and 10 HP motors, providing efficient and reliable motor control.Integrated Single Phase Preventors (SPP) on every motor feeder to protect against phase loss, phase sequence reversal, and phase imbalance, enhancing motor safety and operational reliability.",
+      "Incorporated 24 VDC plug-in relays for Fire Alarm System and BMS ON commands and 230 VAC relays for motor trip and fault feedback to the BMS.",
+      "Prepared complete GA drawings, power wiring diagrams, control wiring layouts, terminal block layouts and BOM."
+    ],
+    "tech": ["AUTOCAD", "Star Delta Starter", "DOL STARTER", "GA DRAWING", "POWER WIRING LAYOUT", "CONTROL WIRING LAYOUT", "TERMINAL BLOCK LAYOUT", "MOTOR PROTECTION"]
+  },
+  {
+    "id": "vrf control panel",
+    "title": "HVAC (VRF) Control Panel",
+    "year": "2026",
+    "category": "Residential Building",
+    "summary": "Designed a 6.4 kW VRF HVAC control panel for a residential project, providing reliable power distribution and comprehensive electrical protection for a 10 HP outdoor unit and multiple indoor units through dedicated incomers and protection devices.",
+    "highlights": [
+      "Configured the outdoor unit with a 4P MCB, 4P contactor, voltage protection relay, and 4P RCCB for safe operation and equipment protection.",
+      "Designed a dedicated 2P RCCB incomer for indoor units, ensuring reliable protection and selective power distribution.",
+      "Integrated a voltage protection relay to safeguard the VRF system against overvoltage, undervoltage, phase loss, and phase sequence faults, preventing compressor damage and improving system reliability.",
+      "Produced GA drawings, power wiring, instrumentation layout, and BOM for streamlined manufacturing and maintenance."
+    ],
+    "tech": ["AUTOCAD", "VRF CONTROL PANEL", "GA DRAWING", "POWER WIRING LAYOUT", "INSTRUMENTATION LAYOUT", "VOLTAGE PROTECTION RELAY"]
+  }
+]
