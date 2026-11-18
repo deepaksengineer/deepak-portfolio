@@ -4,13 +4,14 @@
     "icon": "sld",
     "items": [
       "Single Line Diagrams (SLD)",
-      "Electrical Schematics",
       "General Arrangement (GA) Drawings",
+      "Electrical Schematics",
+      "Power Distribution Layouts",
+      "Instrumentation Layouts",
+      "Power & Control Wiring Diagrams",
+      "Terminal Block Layouts",
       "Load Calculations",
-      "Cable Sizing & Selection",
-      "Control Circuit Design",
-      "Power Distribution Design",
-      "Electrical Documentation"
+      "Cable Sizing & Selection"
     ]
   },
   {
@@ -20,34 +21,34 @@
       "LV Power Distribution Panels",
       "Motor Control Centers (MCC)",
       "Power Control Centers (PCC)",
-      "Automatic Power Factor Correction (APFC)",
-      "Control Panels",
-      "AHU / VRF Control Panels",
+      "Automatic Power Factor Correction (APFC) Panels",
+      "AHU & VRF Control Panels",
+      "DOL & Star-Delta Motor Starters",
+      "VFD Starter Panels",
       "Distribution Boards (DB)",
-      "Panel Testing & Inspection"
+      "BOM / BOQ Preparation"
     ]
   },
   {
     "category": "PLC & Automation (Working Knowledge)",
     "icon": "plc",
     "items": [
-      "ABB PLC Programming",
-      "Siemens SIMATIC Manager (Step 7)",
+      "Siemens SIMATIC Manager",
+      "Cimon CICON PLC",
       "PLC Programming (Ladder Logic)",
-      "PLC Simulation",
-      "Basic Industrial Troubleshooting",
-      "Digital & Analog I/O Configuration"
+      "Basic PLC Program Development",
+      "Digital & Analog I/O Concepts"
     ]
   },
   {
-    "category": "SCADA & HMI (Training)",
+    "category": "SCADA & HMI (Training / Working Knowledge)",
     "icon": "hmi",
     "items": [
       "Wonderware InTouch SCADA",
-      "SCADA Screen Development",
-      "Alarm Configuration",
-      "Tag Management",
-      "Basic HMI Development"
+      "Cimon Canvas HMI",
+      "Cimon XpanelDesigner HMI",
+      "HMI Screen Development",
+      "SCADA Development Fundamentals"
     ]
   },
   {
@@ -61,21 +62,23 @@
     ]
   },
   {
-    "category": "Engineering Standards (Fundamental Knowledge)",
+    "category": "Engineering Standards (Working Knowledge)",
     "icon": "standard",
     "items": [
       "IEC 61439",
-      "IEC 60947",
-      "IEC 61131-3",
-      "IEC 60204-1"
+      "IEC 60947"
     ]
   },
   {
-    "category": "Engineering Software (Professional Experience)",
+    "category": "Engineering Software (Professional Experience / Working Knowledge)",
     "icon": "cad",
     "items": [
       "AutoCAD Electrical",
       "AutoCAD",
+      "Cimon CICON",
+      "Cimon Canvas",
+      "Cimon XpanelDesigner",
+      "Wonderware InTouch",
       "Microsoft Excel",
       "Microsoft Word"
     ]
@@ -84,11 +87,11 @@
     "category": "Project Engineering (Professional Experience)",
     "icon": "boq",
     "items": [
-      "BOM Preparation",
-      "BOQ Preparation",
+      "BOM & BOQ Preparation",
       "Technical Submittals",
-      "Technical Documentation",
-      "EPC Coordination Support"
+      "Electrical Design Documentation",
+      "Technical Coordination",
+      "Panel Testing & Commissioning Support"
     ]
   }
 ]
